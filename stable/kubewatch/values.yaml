@@ -31,6 +31,9 @@ flock:
 webhook:
   enabled: false
   # url: ""
+msteams:
+  enabled: false
+  # webhookurl: ""
 
 # namespace to watch, leave it empty for watching all.
 namespaceToWatch: ""
